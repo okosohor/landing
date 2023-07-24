@@ -1,4 +1,9 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+In this project, I implemented a web page for a company that sells electric bicycles.
+
+- [DEMO LINK](https://okosohor.github.io/landing/)
+
+-he page has an adaptive layout (phone, tablet, computer).
+-Navigation is done using anchors.
+-Smooth animations are implemented.
+-There is a form for sending data.
+-The technologies used were HTML, CSS (SCSS), and JavaScript.
